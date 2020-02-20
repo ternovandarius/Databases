@@ -1,0 +1,1 @@
+create table Table_Version (Version int identity(1, 1), Operation varchar(50))
